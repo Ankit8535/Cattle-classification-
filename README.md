@@ -12,9 +12,8 @@ For **model deployment**, these tools brought the project to life:
 - Render 🌐
 - Flask: version 1.0.2 🌟
 
-## Table of Contents 📚
-1. [Training the Model](docs/1_training.md) with PyTorch: [Indigenous_Cattle_Breed_Classifier](https://github.com/sajit9285/cattle-breed-classifier-webapp/blob/master/notebooks/Indigenous_Cattle_Breed_Classifier.ipynb) 🏋️‍♂️
-2. [Deploying the App on Render](docs/2_render_app.md): Discover the web app [**here**](https://indigenous-cattle-breed-classifier-web.onrender.com) 🚀
+## Discover the web app 📚
+ [**here**](https://indigenous-cattle-breed-classifier-web.onrender.com) 🚀
 
 ## Demo 🎥
 Catch a glimpse of the app in action!
