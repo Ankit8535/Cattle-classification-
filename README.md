@@ -1,7 +1,7 @@
 # Training the Image Classifier & Creating a Web App 🐄🖥️
 ## Indigenous Cattle Breed Classifier Web App
 
-This innovative project was spearheaded by [Ajit Kumar Singh](https://www.linkedin.com/in/sajit9285/), focusing on the development of a web application capable of classifying indigenous cattle breeds. 
+This innovative project was spearheaded by [Ankit Raj](https://www.linkedin.com/in/ankitbyte/), focusing on the development of a web application capable of classifying indigenous cattle breeds. 
 
 ### Tech Stack 🛠️
 For **model training**, the following technologies were employed (detailed in [requirements.txt](requirements.txt)):
